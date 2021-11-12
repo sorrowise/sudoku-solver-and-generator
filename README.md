@@ -18,7 +18,7 @@ In this project, I borrowed a [python implementation](https://www.cs.mcgill.ca/~
 
 ## Installtion
 
-First of all, make sure you install the python library `xlwings`. If it is not installed, you can refer to *[this page](https://docs.xlwings.org/en/stable/installation.html)* to install. Apart from that, you no longer need to install anything. After that, you can download this project and open the sudoku.xlsm file to start using it. 
+First of all, make sure you install the python library `xlwings`. If it is not installed, you can refer to *[this page](https://docs.xlwings.org/en/stable/installation.html)* to install. Apart from that, you no longer need to install anything. After that, you can download this project and open the `sudoku.xlsm` file to start using it. 
 
 ## Usage
 
@@ -26,11 +26,13 @@ The overall interface looks like this:
 
 ![](images/1.png)
 
-The three sheets contain three Sudoku solvers, namely 9\*9 Sudoku, 4\*4 Sudoku and 6\*6 Sudoku. For the 9*9 Sudoku, you can click the five buttons on the far left to generate five Sudokus of different difficulty. These Sudokus are verified to be valid and have unique solutions. These sudokus come from different sudoku databases, from which I have collected about **40,000** sudokus, which appear randomly each time they are generated. Sudoku data is contained in the puzzle folder. You can refer to [this page](https://github.com/t-dillon/tdoku/blob/master/benchmarks/README.md) for more detailed Sudoku collections.
+The three sheets contain three Sudoku solvers, namely 9\*9 Sudoku, 4\*4 Sudoku and 6\*6 Sudoku. For the 9*9 Sudoku, you can click the five buttons on the left to generate Sudokus of five different difficulty. These Sudokus are verified to be valid and have unique solutions. These sudokus come from different sudoku databases, from which I have collected about **40,000** sudokus, which appear randomly each time they are generated. Sudoku data is contained in the `puzzles` folder. You can refer to [this page](https://github.com/t-dillon/tdoku/blob/master/benchmarks/README.md) for more detailed Sudoku collections.
 
 After generating a Sudoku or entering a Sudoku puzzle yourself, you can click the solve button in the middle to solve the Sudoku, and the answer will be displayed in the Sudoku box on the right.After solving Sudoku, you can click the clear button above to clear the puzzle and solution. For some Sudoku that you particularly like, you can click the save button to save it to a file, and then click the load button to load the Sudoku when you need, so that you don't have to enter numbers repeatedly.As for 4-grid sudoku and 6-grid sudoku, except that there is no function of generating, saving and loading Sudoku, other functions are exactly the same as 9-grid sudoku.
 
 ![](images/2.png)
+
+Hope you enjoy it!
 
 ## License
 
