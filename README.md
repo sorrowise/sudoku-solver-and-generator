@@ -30,8 +30,6 @@ The three sheets contain three Sudoku solvers, namely 9\*9 Sudoku, 4\*4 Sudoku a
 
 After generating a Sudoku or entering a Sudoku puzzle yourself, you can click the solve button in the middle to solve the Sudoku, and the answer will be displayed in the Sudoku box on the right.After solving Sudoku, you can click the clear button above to clear the puzzle and solution. For some Sudoku that you particularly like, you can click the save button to save it to a file, and then click the load button to load the Sudoku when you need, so that you don't have to enter numbers repeatedly.As for 4-grid sudoku and 6-grid sudoku, except that there is no function of generating, saving and loading Sudoku, other functions are exactly the same as 9-grid sudoku.
 
-![](images/2.png)
-
 Hope you enjoy it!
 
 ## License
