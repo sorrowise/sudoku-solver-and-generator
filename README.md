@@ -4,7 +4,9 @@ a sudoku solver and generator using excel vba and python(xlwings)
 
 ## Background
 
-Sudoku is a popular game all over the world. Both adults and children can have endless fun from this game. Some Sudokus are very challenging and often take hours or even days to solve. There are already many Sudoku solvers and generators on the web, but why not add another one? I used Excel VBA and python to write this Sudoku solver and generator. Excel is mainly used as the front end of this application, and python is mainly used as the back end, using the famous [*dancing links*](https://en.wikipedia.org/wiki/Dancing_Links) algorithm to solve Sudoku. After my experiment, most of Sudoku can be solved in about a second, even the most difficult Sudoku. I created this project mainly to practice my VBA and python programming skills. I found that the combination of Excel and python can create many interesting applications. Maybe in the future I will use this method to create more interesting applications
+Sudoku is a popular game all over the world. Both adults and children can have endless fun from this game. Some Sudokus are very challenging and often take hours or even days to solve. 
+
+There are already many Sudoku solvers and generators on the web, but why not add another one? I used Excel VBA and python to write this Sudoku solver and generator. Excel is mainly used as the front end of this application, and python is mainly used as the back end, using the famous [*dancing links*](https://en.wikipedia.org/wiki/Dancing_Links) algorithm to solve Sudoku. After my experiment, most of Sudoku can be solved in about a second, even the most difficult Sudoku. I created this project mainly to practice my VBA and python programming skills. I found that the combination of Excel and python can create many interesting applications. Maybe in the future I will use this method to create more interesting applications
 
 ## Algorithm
 
