@@ -18,7 +18,7 @@ In this project, I borrowed a [python implementation](https://www.cs.mcgill.ca/~
 
 ## Installtion
 
-First of all, make sure you install the python library `xlwings`. If it is not installed, you can refer to *[this page](https://docs.xlwings.org/en/stable/installation.html)* to install. In addition, you no longer need to install anything. After that, you can download this project and open the sudoku.xlsm file to start using it. 
+First of all, make sure you install the python library `xlwings`. If it is not installed, you can refer to *[this page](https://docs.xlwings.org/en/stable/installation.html)* to install. Apart from that, you no longer need to install anything. After that, you can download this project and open the sudoku.xlsm file to start using it. 
 
 ## Usage
 
